@@ -1,5 +1,5 @@
 # Termux-style
-Created by hamii
+Created by nazir khan
 
 git clone https://github.com/Braderlala/TermuxTheme
 
